@@ -6,6 +6,7 @@ I am  Computer Science major at CSUF and I plan on graduating in 2027
 ## Favorite CPSC 120L Labs
 
 * Lab 3 Part 1
+
 I enjoyed working through this Lab because this was one of my first times coding and working through a problem like this and also since I got to have a feel with working with a partner and communicating through it. I can also appreciate this Lab as it has real world implications as well and I could even use this code to use on myself and get proper results. Looking back at this Lab I can appreciate it a lot since it gave me a good understanding for what I would be challenged with to come and I feel that it also set me up well for the rest of the semester.
 
 * Lab 10 Part 1
